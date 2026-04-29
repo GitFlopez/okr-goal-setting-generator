@@ -1,0 +1,10 @@
+{
+  "name": "okr-goal-setting-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: okr-goal-setting-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
